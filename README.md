@@ -14,3 +14,4 @@ A Codesys MQTT library
 
 # Tested on
 - WAGO PLC 750-881
+- WAGO PLC 750-841 (FW 04.01.23 (21))
